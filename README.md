@@ -1,3 +1,14 @@
+Explanation of Game:
+http://www.cs.columbia.edu/~kar/4444f16/node19.html
+
+My Team was Team 6 so in order to run our player with a visual gui:
+javac pentos/sim/*.java
+java pentos.sim.Simulator [--gui] [--fps arg] -g g6
+
+Modify The "g6" argument for other strategies from other teams (try "g5") to see how we compare. 
+
+---------------------------------------------------------------------------------------------------------------
+
 Author:  Kevin Shi, Orestis Polychroniou
 Email:   kshi@cs.columbia.edu, orestis@cs.columbia.edu
 
